@@ -14,3 +14,12 @@
  - F1 Score: 96% 
 
 [View on Google Colab](https://colab.research.google.com/drive/1kc1xJrCbW_YuMwDm3uW4ldahJ2sbwheK#scrollTo=vXIs4T1WcxpU)
+
+![alt text](https://github.com/Patrick-Setubal/Projects/blob/main/img/MaeveAmoraVisao.png?raw=true)
+# Deep Learning - Computer Vision
+*Collection, Preprocessing, and Deep Learning for Computer Vision*
+ - Images Captured with a Mobile Phone
+ - Computer Vision to Distinguish Between My Two Dogs
+ - F1 Score: 97% 
+
+[View on Google Colab](https://colab.research.google.com/drive/19UPwtJub-uI6_Fq--KV4ZpFDUeXBlvp_)
