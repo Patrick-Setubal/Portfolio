@@ -23,3 +23,13 @@
  - F1 Score: 97% 
 
 [View on Google Colab](https://colab.research.google.com/drive/19UPwtJub-uI6_Fq--KV4ZpFDUeXBlvp_)
+
+![alt text](https://github.com/Patrick-Setubal/Projects/blob/main/img/Imigration%20canada.png?raw=true)
+# Canadian Immigration Behavior with Azure Data Factory
+*SQL Queries, Azure, Data Factory, and ETL*
+ - First Contact Project with Azure
+ - Which Countries Are the Top Sources of Canadian Immigration? 
+ - Do They Come from Developed Countries? 
+ - Has the Number of Immigrants Increased?
+
+[View on GitHub](https://github.com/Patrick-Setubal/Data_Science_Analytics/blob/main/puc/sprint3/Sprint3.pdf)
